@@ -1,0 +1,14 @@
+# Ignore data and database files
+*.csv
+*.duckdb
+
+# Ignore virtual environments
+.venv/
+env/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
